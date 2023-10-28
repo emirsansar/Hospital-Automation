@@ -1,18 +1,28 @@
 # Hospital-Automation
 A basic hospital management system with Java. <br>
-I have used OOP principles, database systems (JDBC) and Swing libraries in this project. <br>
-In this application, the chief physician can manage the doctors and clinics in the hospital.
-Doctors can choose their working hours.
+I have used OOP principles, database systems (JDBC) and Swing libraries in this project. <br>  <br>
+In this application, the chief physician can manage the doctors and clinics in the hospital.  <br>
+Doctors can choose their working hours.  <br>
 Patients can make an appointment and see their appointments. <br> <br>
 
-Login Screen: <br>
-![loginScreens](https://github.com/emirsansar/Hospital-Automation/assets/92544814/cd99ad24-f6a2-4adb-8547-8b3da0ad1d49)
+Login Screens: <br>
+| User Login | Doctor Login |
+| ---- | ------ |
+|<img src="https://github.com/emirsansar/images/blob/main/hospAuto/userLog.png" width="400" height="270"/>|<img src="https://github.com/emirsansar/images/blob/main/hospAuto/docLog.png" width="400" height="270"/>|
 
 Chief Physician's screen: <br>
-![chiefScreens](https://github.com/emirsansar/Hospital-Automation/assets/92544814/b5421a37-bdf9-4674-81d6-1a19124b2d32)
+| Doctor Management | Clinic Management |
+| ---- | ------ |
+|<img src="https://github.com/emirsansar/images/blob/main/hospAuto/chief1.png" width="500" height="350"/>|<img src="https://github.com/emirsansar/images/blob/main/hospAuto/chief2.png" width="500" height="350"/>|
+
 
 Doctor's screen: <br>
-![doctorScreen](https://github.com/emirsansar/Hospital-Automation/assets/92544814/b6a5b765-d26b-40b8-b21e-2bdee2f734b9)
+| Working Hours |
+| ---- |
+|<img src="https://github.com/emirsansar/images/blob/main/hospAuto/doc1.png" width="500" height="350"/>
+
 
 Patient's screen: <br>
-![patientScreens](https://github.com/emirsansar/Hospital-Automation/assets/92544814/faed523d-e833-42db-add1-be575dbe29d7)
+| Book Appointment | My Appointments |
+| ---- | ------ |
+|<img src="https://github.com/emirsansar/images/blob/main/hospAuto/patient1.png" width="500" height="350"/>|<img src="https://github.com/emirsansar/images/blob/main/hospAuto/patient2.png" width="500" height="350"/>|
